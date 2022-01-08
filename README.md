@@ -1,59 +1,31 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Setup Project
 
-> One paragraph statement about the project.
+> This project is about setting the linters, html, css setup.
 
-![screenshot](./app_screenshot.png)
+![Screenshot from 2022-01-08 16-00-44](https://user-images.githubusercontent.com/75738563/148640390-91c48bb9-a520-4cb1-804c-3e7e6d693e62.png)
 
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: html and css
+- Frameworks: No
+- Technologies used: vs code, github, Firefox
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/AbrahaKahsay/hello-microverse)
+- Twitter: [@twitterhandle](https://twitter.com/Alamsbut)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abraha-kahsay-492771135/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
